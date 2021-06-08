@@ -29,7 +29,7 @@ author = {Tristan D. Griffith and Mark J. Balas},
 
 ## Quick Start
 ### 1. Clone this repository
-### 2. Run Classification Model of interest
+### 2. Run IMECE_UIO_2021_06_08.m
 
 
 # Project Organization
