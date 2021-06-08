@@ -23,6 +23,7 @@ keywords = {System identification, Modal decomposition, EEG dynamics},}
 
 <img src="reports/figures/adapt_est-1.png" alt="drawing" width="500"/>
 <img src="reports/figures/input_error_3.png" alt="drawing" width="500"/>
+
 ==============================
 
 
