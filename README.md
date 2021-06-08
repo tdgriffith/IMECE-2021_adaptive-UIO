@@ -3,22 +3,22 @@ This repo is the implementation of our paper *System Identification Methods for 
 > [**An Adaptive Control Framework for Unknown Input Estimation**](https://www.sciencedirect.com/science/article/pii/S1746809421003621#!)    
 > Tristan Griffith, Mark Balas       
 > [International Mechanical Engineering Congress and Exposition (IMECE)](https://asmedigitalcollection.asme.org/imece)      
-> https://doi.org/10.1016/j.bspc.2021.102765
+> https://doi.org/tbd
 
 ## Reference
 If you find this repo useful in your research, please cite our work.
 ```
-@article{GRIFFITH2021102765,
-title = {System identification methods for dynamic models of brain activity},
-journal = {Biomedical Signal Processing and Control},
-volume = {68},
-pages = {102765},
-year = {2021},
-issn = {1746-8094},
-doi = {https://doi.org/10.1016/j.bspc.2021.102765},
-url = {https://www.sciencedirect.com/science/article/pii/S1746809421003621},
-author = {Tristan D. Griffith and James E. Hubbard},
-keywords = {System identification, Modal decomposition, EEG dynamics},}
+@article{,
+title = {An Adaptive Control Framework for Unknown Input Estimation},
+journal = {},
+volume = {},
+pages = {},
+year = {},
+issn = {},
+doi = {},
+url = {},
+author = {Tristan D. Griffith and Mark J. Balas},
+}
 ```
 
 <img src="reports/figures/adapt_est-1.png" alt="drawing" width="500"/>
