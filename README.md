@@ -20,7 +20,7 @@ url = {https://www.sciencedirect.com/science/article/pii/S1746809421003621},
 author = {Tristan D. Griffith and James E. Hubbard},
 keywords = {System identification, Modal decomposition, EEG dynamics},}
 ```
-![Overview](reports/figures/adapt_est-1.png "Overview")
+![Overview](reports/figures/adapt_est-1.png =250x "Overview")
 ![UIO](reports/figures/input_error_3.png "Example Mode") 
 ==============================
 
