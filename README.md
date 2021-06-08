@@ -6,7 +6,7 @@ This repo is the implementation of our paper *System Identification Methods for 
 > https://doi.org/10.1016/j.bspc.2021.102765
 
 ## Reference
-If you find this repo useful in your research, please cite our work. Gotta get those rookie numbers up.
+If you find this repo useful in your research, please cite our work.
 ```
 @article{GRIFFITH2021102765,
 title = {System identification methods for dynamic models of brain activity},
