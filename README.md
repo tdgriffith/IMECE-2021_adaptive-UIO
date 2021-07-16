@@ -1,6 +1,6 @@
 # IMECE-2021_adaptive-UIO
 This repo is the implementation of our paper *System Identification Methods for Dynamic Models of Brain Activity*.
-> [**An Adaptive Control Framework for Unknown Input Estimation**](https://www.sciencedirect.com/science/article/pii/S1746809421003621#!)    
+> [**An Adaptive Control Framework for Unknown Input Estimation**](tbd)    
 > Tristan Griffith, Mark Balas       
 > [International Mechanical Engineering Congress and Exposition (IMECE)](https://asmedigitalcollection.asme.org/imece)      
 > https://doi.org/tbd
