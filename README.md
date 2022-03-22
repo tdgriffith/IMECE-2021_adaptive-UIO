@@ -1,6 +1,6 @@
 # IMECE-2021_adaptive-UIO
 This repo is the implementation of our paper *System Identification Methods for Dynamic Models of Brain Activity*.
-> [**An Adaptive Control Framework for Unknown Input Estimation**](tbd)    
+> [**An Adaptive Control Framework for Unknown Input Estimation**](https://asmedigitalcollection.asme.org/IMECE/proceedings/IMECE2021/85611/V07AT07A006/1132748?casa_token=CSDQBjK--MsAAAAA:HTTL4FfseywUseLxoYaUjaihTcPIBJGjks9-0TqVlNyCFFNV6F2dEydn_UOFFVPXWxHhsSE)    
 > Tristan Griffith, Mark Balas       
 > [International Mechanical Engineering Congress and Exposition (IMECE)](https://asmedigitalcollection.asme.org/IMECE/proceedings/IMECE2021/85611/V07AT07A006/1132748?casa_token=CSDQBjK--MsAAAAA:HTTL4FfseywUseLxoYaUjaihTcPIBJGjks9-0TqVlNyCFFNV6F2dEydn_UOFFVPXWxHhsSE)      
 > https://doi.org/10.1115/IMECE2021-67484
@@ -8,16 +8,14 @@ This repo is the implementation of our paper *System Identification Methods for 
 ## Reference
 If you find this repo useful in your research, please cite our work.
 ```
-@article{,
-title = {An Adaptive Control Framework for Unknown Input Estimation},
-journal = {},
-volume = {},
-pages = {},
-year = {},
-issn = {},
-doi = {},
-url = {},
-author = {Tristan D. Griffith and Mark J. Balas},
+@inproceedings{griffith2021adaptive,
+  title={An Adaptive Control Framework for Unknown Input Estimation},
+  author={Griffith, Tristan D and Balas, Mark J},
+  booktitle={ASME International Mechanical Engineering Congress and Exposition},
+  volume={85611},
+  pages={V07AT07A006},
+  year={2021},
+  organization={American Society of Mechanical Engineers}
 }
 ```
 
