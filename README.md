@@ -2,8 +2,8 @@
 This repo is the implementation of our paper *System Identification Methods for Dynamic Models of Brain Activity*.
 > [**An Adaptive Control Framework for Unknown Input Estimation**](tbd)    
 > Tristan Griffith, Mark Balas       
-> [International Mechanical Engineering Congress and Exposition (IMECE)](https://asmedigitalcollection.asme.org/imece)      
-> https://doi.org/tbd
+> [International Mechanical Engineering Congress and Exposition (IMECE)](https://asmedigitalcollection.asme.org/IMECE/proceedings/IMECE2021/85611/V07AT07A006/1132748?casa_token=CSDQBjK--MsAAAAA:HTTL4FfseywUseLxoYaUjaihTcPIBJGjks9-0TqVlNyCFFNV6F2dEydn_UOFFVPXWxHhsSE)      
+> https://doi.org/10.1115/IMECE2021-67484
 
 ## Reference
 If you find this repo useful in your research, please cite our work.
